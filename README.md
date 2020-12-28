@@ -1,4 +1,4 @@
-# bagh-chal
+# Bagh Chal
 
 Monte Carlo Tree Search Implementation of Bagh Chal.
 
